@@ -67,3 +67,5 @@ print_SCS.exe
 longest_repeating.exe
 pattern_matching.exe
 min_insertion.exe
+mcm_recursion.exe
+mcm_memo.exe
