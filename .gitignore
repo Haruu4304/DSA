@@ -69,3 +69,6 @@ pattern_matching.exe
 min_insertion.exe
 mcm_recursion.exe
 mcm_memo.exe
+palindrome_partition.exe
+palindrome_memo.exe
+optimized.exe
