@@ -64,7 +64,9 @@ int foundelem(vector<int> arr, int element){
     int left = BS(arr , start , index-1 , element);//it will check the half of 1st part 
     int right = BS(arr , index , end , element); //2nd part will checked 
 
-    if(left != -1){
+    if(left == -1 && right == -1){
+        return -1;
+    }else if(left != -1){
         return left;
     }else{
         return right;
