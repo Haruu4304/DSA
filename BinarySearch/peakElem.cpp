@@ -41,6 +41,8 @@ int findPeakElement(vector<int> &nums){
         }
 
     }
+    //if nothing is their then return 
+    return -1;
 }
 
 int main(){
