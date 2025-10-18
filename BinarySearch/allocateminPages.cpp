@@ -42,6 +42,9 @@ bool isValid(vector<int>&arr , int n , int k , int mx){
 
 int findPages(vector<int> &arr, int k){
     int n = arr.size();
+    if(n < k){
+        return -1;
+    }
     int start = startArray(arr , n);
     int end = sumArray(arr , n);
     int result = -1;
