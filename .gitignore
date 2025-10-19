@@ -90,3 +90,5 @@ bitonic_max.exe
 searchBitonic.exe
 rowwiseSearch.exe
 allocateminPages.exe
+kthlargest.exe 
+kthsmallest.exe
