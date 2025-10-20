@@ -92,3 +92,5 @@ rowwiseSearch.exe
 allocateminPages.exe
 kthlargest.exe 
 kthsmallest.exe
+kthsort.exe
+kClosestNum.exe
