@@ -99,3 +99,11 @@ freqSort1.exe
 freqSort2.exe
 kClosestOrigin.exe
 ConnectRopes.exe
+NextLargestElementBF.exe
+NextGreaterElement.exe
+NGEtoLeftBF.exe
+NGEtoLeftOptimized.exe
+NextSmallertoRightBF.exe
+NextSmallertoRight.exe
+NextSmallertoLeft.exe
+NextSmallertoLeftBF.exe
