@@ -107,3 +107,6 @@ NextSmallertoRightBF.exe
 NextSmallertoRight.exe
 NextSmallertoLeft.exe
 NextSmallertoLeftBF.exe
+StockSpanProblem.exe
+MaximumAreaHistogram.exe
+MaxAreaBinaryMatrix.exe
